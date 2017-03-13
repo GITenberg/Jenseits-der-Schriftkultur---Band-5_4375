@@ -1,5 +1,8 @@
 _repo: Jenseits-der-Schriftkultur---Band-5_4375
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nadin, Mihai
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/930
     wikipedia: http://en.wikipedia.org/wiki/Mihai_Nadin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4375#Jenseits-der-Schriftkultur---Band-5
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2003-08-01'
 gutenberg_type: Text
